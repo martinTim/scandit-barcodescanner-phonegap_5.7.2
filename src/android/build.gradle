@@ -5,5 +5,5 @@ repositories {
 }
 
 dependencies {
-    compile(name: 'ScanditBarcodeScanner', ext: 'aar')
+    implementation(name: 'ScanditBarcodeScanner', ext: 'aar')
 }
